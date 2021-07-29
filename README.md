@@ -24,7 +24,7 @@ Increase this value (PerkUpgrade_NbAvailablePerks=) to 15: eg. "PerkUpgrade_NbAv
 You can entirely choose which of these you play with by adding/removing the perks you don't want to use.
 
 
-For Guardian.
+ - For Guardian.
 
 Under [ZedternalReborn.Config_SkillUpgrade] in your ZedternalReborn.ini file
 Paste:
@@ -40,7 +40,7 @@ SkillUpgrade_SkillUpgrades=(PerkPath="HowdyZTRExt.ZRUpgrade_Perk_Guardian",Skill
 SkillUpgrade_SkillUpgrades=(PerkPath="HowdyZTRExt.ZRUpgrade_Perk_Guardian",SkillPath="HowdyZTRExt.ZRUpgrade_Skill_HealingVest")
 SkillUpgrade_SkillUpgrades=(PerkPath="HowdyZTRExt.ZRUpgrade_Perk_Guardian",SkillPath="HowdyZTRExt.ZRUpgrade_Skill_Juggernaut")
 
-For Scientist.
+  - For Scientist.
 
 Under [ZedternalReborn.Config_SkillUpgrade] in your ZedternalReborn.ini file
 Paste:
@@ -56,7 +56,7 @@ SkillUpgrade_SkillUpgrades=(PerkPath="HowdyZTRExt.ZRUpgrade_Perk_Scientist",Skil
 SkillUpgrade_SkillUpgrades=(PerkPath="HowdyZTRExt.ZRUpgrade_Perk_Scientist",SkillPath="HowdyZTRExt.ZRUpgrade_Skill_ElectroStaticContraction")
 SkillUpgrade_SkillUpgrades=(PerkPath="HowdyZTRExt.ZRUpgrade_Perk_Scientist",SkillPath="HowdyZTRExt.ZRUpgrade_Skill_ShockJock")
 
-For Cryomancer.
+  - For Cryomancer.
 
 Under [ZedternalReborn.Config_SkillUpgrade] in your ZedternalReborn.ini file
 Paste:
@@ -72,7 +72,7 @@ SkillUpgrade_SkillUpgrades=(PerkPath="HowdyZTRExt.ZRUpgrade_Perk_Cryomancer",Ski
 SkillUpgrade_SkillUpgrades=(PerkPath="HowdyZTRExt.ZRUpgrade_Perk_Cryomancer",SkillPath="HowdyZTRExt.ZRUpgrade_Skill_IcyArmor")
 SkillUpgrade_SkillUpgrades=(PerkPath="HowdyZTRExt.ZRUpgrade_Perk_Cryomancer",SkillPath="HowdyZTRExt.ZRUpgrade_Skill_LiquidLoading")
 
-For PlagueBearer.
+  - For PlagueBearer.
 
 Under [ZedternalReborn.Config_SkillUpgrade] in your ZedternalReborn.ini file
 Paste:
@@ -88,7 +88,7 @@ SkillUpgrade_SkillUpgrades=(PerkPath="HowdyZTRExt.ZRUpgrade_Perk_Plaguebearer",S
 SkillUpgrade_SkillUpgrades=(PerkPath="HowdyZTRExt.ZRUpgrade_Perk_Plaguebearer",SkillPath="HowdyZTRExt.ZRUpgrade_Skill_SkullCrack")
 SkillUpgrade_SkillUpgrades=(PerkPath="HowdyZTRExt.ZRUpgrade_Perk_Plaguebearer",SkillPath="HowdyZTRExt.ZRUpgrade_Skill_Kneecapper")
 
-For Vampire.
+  - For Vampire.
 
 Under [ZedternalReborn.Config_SkillUpgrade] in your ZedternalReborn.ini file
 Paste:
@@ -104,7 +104,7 @@ SkillUpgrade_SkillUpgrades=(PerkPath="HowdyZTRExt.ZRUpgrade_Perk_Vampire",SkillP
 SkillUpgrade_SkillUpgrades=(PerkPath="HowdyZTRExt.ZRUpgrade_Perk_Vampire",SkillPath="HowdyZTRExt.ZRUpgrade_Skill_UnholyFlesh")
 SkillUpgrade_SkillUpgrades=(PerkPath="HowdyZTRExt.ZRUpgrade_Perk_Vampire",SkillPath="HowdyZTRExt.ZRUpgrade_Skill_Adrenaline")
 
-For Equipment
+  - For Equipment
 
 These are entirely optional and intended to allow for very silly builds.
 Firstly for the Exchange skills, these offer HUGE buffs, with a HUGE downside.
@@ -121,7 +121,7 @@ EquipmentUpgrade_EquipmentUpgrades=(EquipmentPath="HowdyZTRExt.ZRUpgrade_Equipme
 EquipmentUpgrade_EquipmentUpgrades=(EquipmentPath="HowdyZTRExt.ZRUpgrade_Equipment_Exchange_TriggerHappy",BasePrice=5000,MaxPrice=10000,MaxLevel=2)
 EquipmentUpgrade_EquipmentUpgrades=(EquipmentPath="HowdyZTRExt.ZRUpgrade_Equipment_Exchange_ShortMag",BasePrice=5000,MaxPrice=10000,MaxLevel=2)
 
-For Extra Equipment
+  - For Extra Equipment
 Under [ZedternalReborn.Config_EquipmentUpgrade] in your ZedternalReborn.ini file
 Paste:
 
